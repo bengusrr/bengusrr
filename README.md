@@ -1,4 +1,4 @@
-# ![https://twitter.com/bengusrr](https://github.com/bengusrr/bengusrr/blob/main/MIN_Memoji_2022b.png) Hello, my name is BG Rodríguez
+# ![https://twitter.com/bengusrr](https://github.com/bengusrr/bengusrr/blob/main/MIN_Memoji_2022_red.png) Hello, my name is BG Rodríguez
 ### Hi there 👋
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCMaPD2iVWxVPYplcuD5mNPQ?style=social)](https://youtube.com/bengusrr?sub_confirmation=1)
