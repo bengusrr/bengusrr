@@ -1,6 +1,11 @@
 # ![https://twitter.com/bengusrr](https://github.com/bengusrr/bengusrr/blob/main/MIN_Memoji_2022.png) Hello, my name is BG Rodríguez
 ### Hi there 👋
 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCMaPD2iVWxVPYplcuD5mNPQ?style=social)](https://youtube.com/bengusrr?sub_confirmation=1)
+[![Twitch Status](https://img.shields.io/twitch/status/benjamin3g88?style=social)](https://twitch.com/benjamin3g88)
+[![Twitter Follow](https://img.shields.io/twitter/follow/bengusrr?style=social)](https://twitter.com/bengusrr)
+![GitHub Followers](https://img.shields.io/github/followers/bengusrr?style=social)
+
 <!--
 **bengusrr/bengusrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
