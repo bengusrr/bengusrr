@@ -1,3 +1,4 @@
+# ![https://twitter.com/bengusrr](https://github.com/bengusrr/bengusrr/blob/main/MIN_Memoji_2022.png) Hello, my name is BG Rodríguez
 ### Hi there 👋
 
 <!--
