@@ -6,6 +6,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/bengusrr?style=social)](https://twitter.com/bengusrr)
 ![GitHub Followers](https://img.shields.io/github/followers/bengusrr?style=social)
 
+[![hackorum's GitHub stats](https://github-readme-stats.vercel.app/api?username=bengusrr&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **bengusrr/bengusrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
